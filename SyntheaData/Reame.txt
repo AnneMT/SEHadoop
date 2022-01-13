@@ -1,0 +1,1 @@
+This folder contains example data that was generated using Synthea version x.  This data is input to the PySpark Synthea Filter job.
