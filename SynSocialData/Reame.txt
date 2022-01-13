@@ -1,0 +1,1 @@
+This folder contains example data generated using SynSocial version 1.6 that is used as input to the PySpark SynSocial Filger Job.  Data is in Twitter JSON format.
