@@ -1,0 +1,1 @@
+JSON files used to create Types and Entities
