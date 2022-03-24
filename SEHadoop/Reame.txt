@@ -1,0 +1,1 @@
+Documents in this folder provide details and step by step information on configuring Apache Hadoop with Spark, Ranger and Atlas to implment access control.
