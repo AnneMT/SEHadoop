@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "typeName": "hdfs_folder",
+    "attributes": {
+      "owner": "hdfs",
+      "createTime": 1619297668000,
+      "qualifiedName": "DataSet1_patientsDFData@sehadoop",
+      "displayName": "patientsDFData folder",
+      "name": "patientsDFData",
+      "description": "patients data filtered and in DataFrame format"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "typeName": "hdfs_folder",
+    "attributes": {
+      "owner": "hdfs",
+      "createTime": 1619297668000,
+      "qualifiedName": "DataSet1_analysis-encrypt@sehadoop",
+      "displayName": "analysis-encrypt folder",
+      "name": "analysis-encrypt",
+      "description": "results from analyzing encrypted data"
+    }
+  }
+}

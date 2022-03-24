@@ -1,0 +1,9 @@
+{
+  "classificationDefs": [
+    {
+      "category": "CLASSIFICATION",
+      "name": "REDACTED",
+      "description": "Sensitive information has been Redacted"
+    }
+  ]
+}

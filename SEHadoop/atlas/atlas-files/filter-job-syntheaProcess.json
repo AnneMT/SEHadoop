@@ -1,0 +1,34 @@
+{
+  "entity": {
+    "typeName": "SparkProcess",
+    "attributes": {
+      "owner": "hdfs",
+      "outputs": [
+        {
+          "guid": "30e44870-4a26-4f4b-b84d-92ddf4fe5d31",
+          "typeName": "hdfs_folder",
+          "uniqueAttributes": {
+            "qualifiedName": "DataSet1_patientsDFData@sehadoop"
+          }
+        }
+      ],
+      "qualifiedName": "filter-job-synthea@sehadoop",
+      "displayName": null,
+      "inputs": [
+        {
+          "guid": "33f5f5e1-3df7-4b3b-b341-b7ed189bc59e",
+          "typeName": "hdfs_folder",
+          "uniqueAttributes": {
+            "qualifiedName": "DataSet1_patients@sehadoop"
+          }
+        }
+      ],
+      "description": "filters medical record data",
+      "userName": null,
+      "name": "Filter-Job-Synthea.py",
+      "startTime": 1618295176062,
+      "endTime": 1618295186062,
+      "processId":"Filter-Job-Synthea"
+    }
+  }
+}

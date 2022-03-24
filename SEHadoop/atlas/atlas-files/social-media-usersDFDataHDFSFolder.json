@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "typeName": "hdfs_folder",
+    "attributes": {
+      "owner": "hdfs",
+      "createTime": 1619297668000,
+      "qualifiedName": "DataSet1_social-media-usersDFData@sehadoop",
+      "displayName": "social-media-usersDFData folder",
+      "name": "social-media-usersDFData",
+      "description": "social media data filtered and in DataFrame format"
+    }
+  }
+}

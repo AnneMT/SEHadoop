@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "typeName": "hdfs_folder",
+    "attributes": {
+      "owner": "hdfs",
+      "createTime": 1619297668000,
+      "qualifiedName": "DataSet1_social-media-users@sehadoop",
+      "displayName": "social media users folder",
+      "name": "social-media-users",
+      "description": "social media users messages"
+    }
+  }
+}

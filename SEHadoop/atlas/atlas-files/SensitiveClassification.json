@@ -1,0 +1,9 @@
+{
+  "classificationDefs": [
+    {
+      "category": "CLASSIFICATION",
+      "name": "SENSITIVE",
+      "description": "information that needs to be protected"
+    }
+  ]
+}

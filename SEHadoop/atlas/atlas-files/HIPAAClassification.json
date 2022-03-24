@@ -1,0 +1,9 @@
+{
+  "classificationDefs": [
+    {
+      "category": "CLASSIFICATION",
+      "name": "HIPAA",
+      "description": "Sensitive Healthcare Data"
+    }
+  ]
+}

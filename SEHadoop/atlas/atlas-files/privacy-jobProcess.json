@@ -1,0 +1,48 @@
+{
+  "entity": {
+    "typeName": "SparkProcess",
+    "attributes": {
+      "owner": "hdfs",
+      "outputs": [
+        {
+          "guid": "dab4728f-2453-4d76-a494-4c19bc65ba3c",
+          "typeName": "hdfs_folder",
+          "uniqueAttributes": {
+            "qualifiedName": "DataSet1_KEY@sehadoop"
+          }
+        },
+        {
+          "guid": "9cd78648-0510-462d-b7bc-43462029f3dd",
+          "typeName": "hdfs_folder",
+          "uniqueAttributes": {
+            "qualifiedName": "DataSet1_hashedDFData@sehadoop"
+          }
+        },
+        {
+          "guid": "0b068fb7-4766-4e01-b81f-f51a4fbe45bd",
+          "typeName": "hdfs_folder",
+          "uniqueAttributes": {
+            "qualifiedName": "DataSet1_encryptedDFData@sehadoop"
+          }
+        }
+      ],
+      "qualifiedName": "privacy-job@sehadoop",
+      "displayName": null,
+      "inputs": [
+        {
+          "guid": "72c12cd6-c526-497e-a868-89809514439b",
+          "typeName": "hdfs_folder",
+          "uniqueAttributes": {
+            "qualifiedName": "DataSet1_joinedDFData@sehadoop"
+          }
+        }
+      ],
+      "description": "encrypts and hashes sensitive data",
+      "userName": null,
+      "name": "Privacy-Job.py",
+      "startTime": 1618295176062,
+      "endTime": 1618295186062,
+      "processId":"Privacy-Job"
+    }
+  }
+}

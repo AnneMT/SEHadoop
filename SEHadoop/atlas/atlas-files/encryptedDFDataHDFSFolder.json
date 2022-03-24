@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "typeName": "hdfs_folder",
+    "attributes": {
+      "owner": "hdfs",
+      "createTime": 1619297668000,
+      "qualifiedName": "DataSet1_encryptedDFData@sehadoop",
+      "displayName": "encryptedDFData folder",
+      "name": "encryptedDFData",
+      "description": "encrypted data"
+    }
+  }
+}

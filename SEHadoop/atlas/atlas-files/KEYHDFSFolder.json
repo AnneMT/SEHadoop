@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "typeName": "hdfs_folder",
+    "attributes": {
+      "owner": "hdfs",
+      "createTime": 1619297668000,
+      "qualifiedName": "DataSet1_KEY@sehadoop",
+      "displayName": "KEY folder",
+      "name": "KEY",
+      "description": "key used for encryption of encryptedDFData"
+    }
+  }
+}

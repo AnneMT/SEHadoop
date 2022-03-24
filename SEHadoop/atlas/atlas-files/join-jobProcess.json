@@ -1,0 +1,41 @@
+{
+  "entity": {
+    "typeName": "SparkProcess",
+    "attributes": {
+      "owner": "hdfs",
+      "outputs": [
+        {
+          "guid": "72c12cd6-c526-497e-a868-89809514439b",
+          "typeName": "hdfs_folder",
+          "uniqueAttributes": {
+            "qualifiedName": "DataSet1_joinedDFData@sehadoop"
+          }
+        }
+      ],
+      "qualifiedName": "join-job@sehadoop",
+      "displayName": null,
+      "inputs": [
+        {
+          "guid": "756dcedc-62a7-4d7a-a734-c6245e6f0582",
+          "typeName": "hdfs_folder",
+          "uniqueAttributes": {
+            "qualifiedName": "DataSet1_social-media-usersDFData@sehadoop"
+          }
+        },
+       {
+          "guid": "30e44870-4a26-4f4b-b84d-92ddf4fe5d31",
+          "typeName": "hdfs_folder",
+          "uniqueAttributes": {
+            "qualifiedName": "DataSet1_patientsDFData@sehadoop"
+          }
+        }
+      ],
+      "description": "joins social media data and medical records",
+      "userName": null,
+      "name": "Join-Job.py",
+      "startTime": 1618295176062,
+      "endTime": 1618295186062,
+      "processId":"Join-Job"
+    }
+  }
+}

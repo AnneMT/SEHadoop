@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "typeName": "hdfs_folder",
+    "attributes": {
+      "owner": "hdfs",
+      "createTime": 1619297668000,
+      "qualifiedName": "DataSet1_hashedDFData@sehadoop",
+      "displayName": "hashedDFData folder",
+      "name": "hashedDFData",
+      "description": "hashed data"
+    }
+  }
+}

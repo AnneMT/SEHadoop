@@ -1,0 +1,41 @@
+{
+  "entity": {
+    "typeName": "SparkProcess",
+    "attributes": {
+      "owner": "hdfs",
+      "outputs": [
+        {
+          "guid": "44137217-5cd5-4cda-bc17-2a4e34648be5",
+          "typeName": "hdfs_folder",
+          "uniqueAttributes": {
+            "qualifiedName": "DataSet1_analysis-hash@sehadoop"
+          }
+        },
+        {
+          "guid": "38882079-026b-493c-8dc9-0cf5fae90ac0",
+          "typeName": "hdfs_folder",
+          "uniqueAttributes": {
+            "qualifiedName": "DataSet1_analysis-hash-stats@sehadoop"
+          }
+        }
+      ],
+      "qualifiedName": "analysis-job-hash@sehadoop",
+      "displayName": null,
+      "inputs": [
+        {
+          "guid": "9cd78648-0510-462d-b7bc-43462029f3dd",
+          "typeName": "hdfs_folder",
+          "uniqueAttributes": {
+            "qualifiedName": "DataSet1_hashedDFData@sehadoop"
+          }
+        }
+      ],
+      "description": "analyzes hashed files",
+      "userName": null,
+      "name": "Analysis-Job-Hash.py",
+      "startTime": 1618295176062,
+      "endTime": 1618295186062,
+      "processId":"Analysis-Hash-Encrypt"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "entity": {
+    "typeName": "hdfs_folder",
+    "attributes": {
+      "owner": "hdfs",
+      "createTime": 1619297668000,
+      "qualifiedName": "DataSet1_analysis-hash-stats@sehadoop",
+      "displayName": "analysis-hash-stats folder",
+      "name": "analysis-hash-stats",
+      "description": "statistics on hashed data"
+    }
+  }
+}

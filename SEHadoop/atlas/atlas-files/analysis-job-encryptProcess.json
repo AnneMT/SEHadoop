@@ -1,0 +1,41 @@
+{
+  "entity": {
+    "typeName": "SparkProcess",
+    "attributes": {
+      "owner": "hdfs",
+      "outputs": [
+        {
+          "guid": "654a0f5b-9fcd-4c12-bfe2-c91b3cd2411d",
+          "typeName": "hdfs_folder",
+          "uniqueAttributes": {
+            "qualifiedName": "DataSet1_analysis-encrypt@sehadoop"
+          }
+        },
+        {
+          "guid": "61e3e885-968c-43cd-8810-ca380c8a05c3",
+          "typeName": "hdfs_folder",
+          "uniqueAttributes": {
+            "qualifiedName": "DataSet1_analysis-encrypt-stats@sehadoop"
+          }
+        }
+      ],
+      "qualifiedName": "analysis-job-encrypt@sehadoop",
+      "displayName": null,
+      "inputs": [
+        {
+          "guid": "0b068fb7-4766-4e01-b81f-f51a4fbe45bd",
+          "typeName": "hdfs_folder",
+          "uniqueAttributes": {
+            "qualifiedName": "DataSet1_encryptedDFData@sehadoop"
+          }
+        }
+      ],
+      "description": "analyzes encrypted files",
+      "userName": null,
+      "name": "Analysis-Job-Encrypt.py",
+      "startTime": 1618295176062,
+      "endTime": 1618295186062,
+      "processId":"Analysis-Job-Encrypt"
+    }
+  }
+}
